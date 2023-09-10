@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 I am Shaamini Kalaimani and am working as a customer experience officer. I am working towards becoming an analyst and honing my skils by doing data visualisation projects. Github is the space that i chose to store and share my work whilst I continue to hon my skills on ✳️ SQLite ✳️Power BI ✳️ Power Pivot.
 
 
@@ -12,4 +11,4 @@ I am Shaamini Kalaimani and am working as a customer experience officer. I am wo
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
--->
+
